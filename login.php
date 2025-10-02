@@ -6,8 +6,6 @@
   <meta name="viewport" content="width=device-width,initial-scale=1" />
   <title>Login — OLFU Queueing</title>
 
-  <!-- Simple, self-contained styling (still HTML file) -->
-
   <style>   
     :root{
       --bg:#f4f7fb;
@@ -159,9 +157,7 @@
       </header>
 
 ```
-  <!-- HTML-only form: uses HTML5 validation attributes -->
   <form action="#" method="post" novalidate>
-    <!-- You can change the input type to "email" if you require email-only logins -->
     <div class="field">
       <label for="username">Username or Email</label>
       <input
