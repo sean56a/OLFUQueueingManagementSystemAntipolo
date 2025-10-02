@@ -5,7 +5,7 @@ echo "<p>Current date and time: " . date("Y-m-d H:i:s") . "</p>";
 ?>
 
 
-<!DOCTYPE html>
+<!DOCTYPE html> 
 <html lang="en">
 <head>
     <meta charset="UTF-8">
